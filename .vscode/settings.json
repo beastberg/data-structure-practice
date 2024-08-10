@@ -1,0 +1,15 @@
+{
+    "cmake.configureOnOpen": false,
+    "C_Cpp.default.compilerPath": "C:\\mingw\\bin\\gcc.exe",
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "*.tcc": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "algorithm": "cpp",
+        "new": "cpp"
+    }
+}
