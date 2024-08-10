@@ -70,15 +70,14 @@ int main() {
     cout << "Display using recursiveDisplay method: ";
     ll.recursiveDisplay(ll.getHead());
     cout << endl;
-<<<<<<< HEAD
    
     cout<<"hello world";
     cout<<123<<endl;
 
     cout<<"your branch is cse "<<endl;
+
+    cout<<"watch anime alright"<<endl;
     
 
-=======
->>>>>>> parent of b88472d (just added a random line)
     return 0;
 }
