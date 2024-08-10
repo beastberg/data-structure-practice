@@ -72,6 +72,7 @@ int main() {
     cout << endl;
    
     cout<<"hello world";
-
+    cout<<123<<endl;
+    
     return 0;
 }
