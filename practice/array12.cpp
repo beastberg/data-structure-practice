@@ -178,7 +178,7 @@ int i = length-1;
 if(length==size){
     return;
 }
-while(i>=0 && A[i]>x){
+while(i>=0 && A[i]>x){ // code for insertion sort
     A[i+1]= A[i];
     i--;
 }
